@@ -1,0 +1,47 @@
+
+#lyrics
+{
+	border:solid white 1px;
+	margin-top:20px;
+	padding:5px;
+	font-size:36px;
+	font-style:italic;
+	height:50px;
+	overflow:hidden;
+	-webkit-box-shadow: 2px 6px 28px 8px rgba(0,0,0,0.59);
+-moz-box-shadow: 2px 6px 28px 8px rgba(0,0,0,0.59);
+box-shadow: 2px 6px 28px 8px rgba(0,0,0,0.59);
+}
+
+
+
+.marquee {
+  width: 300px;
+  overflow: hidden;
+  border: 1px solid #ccc;
+
+}
+
+#banner
+{
+	margin-top:20px;
+	height:400px;
+	
+	-webkit-box-shadow: 2px 6px 28px 8px rgba(0,0,0,0.59);
+-moz-box-shadow: 2px 6px 28px 8px rgba(0,0,0,0.59);
+box-shadow: 2px 6px 28px 8px rgba(0,0,0,0.59);
+
+}
+
+#banner img
+{
+	position:relative;
+}
+
+li
+{
+	display:block;
+	height:250px;
+	size:inherit;
+}
+

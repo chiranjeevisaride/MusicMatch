@@ -1,0 +1,662 @@
+Array
+(
+    [track_list] => Array
+        (
+            [0] => Array
+                (
+                    [track] => Array
+                        (
+                            [track_id] => 46086761
+                            [track_mbid] => 
+                            [track_isrc] => USA560456209
+                            [track_spotify_id] => 0EKqb9uIYLBd7SgNXrBVK6
+                            [track_soundcloud_id] => 0
+                            [track_xboxmusic_id] => music.E9413300-0100-11DB-89CA-0019B92A3933
+                            [track_name] => Pitbull
+                            [track_name_translation_list] => Array
+                                (
+                                )
+
+                            [track_rating] => 10
+                            [track_length] => 243
+                            [commontrack_id] => 20119992
+                            [instrumental] => 0
+                            [explicit] => 0
+                            [has_lyrics] => 1
+                            [has_subtitles] => 0
+                            [num_favourite] => 1
+                            [lyrics_id] => 9604194
+                            [subtitle_id] => 0
+                            [album_id] => 16334041
+                            [album_name] => Morning Wood
+                            [artist_id] => 25971786
+                            [artist_mbid] => 
+                            [artist_name] => Rugburns
+                            [album_coverart_100x100] => http://s.mxmcdn.net/images-storage/albums/3/2/9/7/6/5/27567923.jpg
+                            [album_coverart_350x350] => http://s.mxmcdn.net/images-storage/albums/3/2/9/7/6/5/27567923_350_350.jpg
+                            [album_coverart_500x500] => http://s.mxmcdn.net/images-storage/albums/3/2/9/7/6/5/27567923_500_500.jpg
+                            [album_coverart_800x800] => http://s.mxmcdn.net/images-storage/albums/3/2/9/7/6/5/27567923_800_800.jpg
+                            [track_share_url] => https://www.musixmatch.com/lyrics/Rugburns/Pitbull
+                            [track_edit_url] => https://www.musixmatch.com/lyrics/Rugburns/Pitbull/edit?utm_source=application&utm_campaign=api&utm_medium=
+                            [commontrack_vanity_id] => Rugburns/Pitbull
+                            [restricted] => 0
+                            [updated_time] => 2014-05-19T09:46:49Z
+                            [primary_genres] => Array
+                                (
+                                    [music_genre_list] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [music_genre] => Array
+                                                        (
+                                                            [music_genre_id] => 21
+                                                            [music_genre_parent_id] => 34
+                                                            [music_genre_name] => Rock
+                                                            [music_genre_name_extended] => Rock
+                                                            [music_genre_vanity] => Rock
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [secondary_genres] => Array
+                                (
+                                    [music_genre_list] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [music_genre] => Array
+                                                        (
+                                                            [music_genre_id] => 20
+                                                            [music_genre_parent_id] => 34
+                                                            [music_genre_name] => Alternative
+                                                            [music_genre_name_extended] => Alternative
+                                                            [music_genre_vanity] => Alternative
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [track] => Array
+                        (
+                            [track_id] => 71066515
+                            [track_mbid] => 
+                            [track_isrc] => PLC071310008
+                            [track_spotify_id] => 72vHCRdNSUPG2nKufu6tMx
+                            [track_soundcloud_id] => 0
+                            [track_xboxmusic_id] => music.8D662908-0100-11DB-89CA-0019B92A3933
+                            [track_name] => Pitbull
+                            [track_name_translation_list] => Array
+                                (
+                                )
+
+                            [track_rating] => 15
+                            [track_length] => 213
+                            [commontrack_id] => 38836816
+                            [instrumental] => 0
+                            [explicit] => 1
+                            [has_lyrics] => 1
+                            [has_subtitles] => 1
+                            [num_favourite] => 3
+                            [lyrics_id] => 9535046
+                            [subtitle_id] => 2266681
+                            [album_id] => 19384128
+                            [album_name] => Piątek 13-Go
+                            [artist_id] => 14001922
+                            [artist_mbid] => a7ae6cc7-eaa4-4e82-b0f2-fc70c1605637
+                            [artist_name] => Kaen
+                            [album_coverart_100x100] => http://s.mxmcdn.net/images-storage/albums/1/6/1/7/5/5/30557161.jpg
+                            [album_coverart_350x350] => http://s.mxmcdn.net/images-storage/albums/1/6/1/7/5/5/30557161_350_350.jpg
+                            [album_coverart_500x500] => http://s.mxmcdn.net/images-storage/albums/1/6/1/7/5/5/30557161_500_500.jpg
+                            [album_coverart_800x800] => http://s.mxmcdn.net/images-storage/albums/1/6/1/7/5/5/30557161_800_800.jpg
+                            [track_share_url] => https://www.musixmatch.com/lyrics/Kaen/Pitbull
+                            [track_edit_url] => https://www.musixmatch.com/lyrics/Kaen/Pitbull/edit?utm_source=application&utm_campaign=api&utm_medium=
+                            [commontrack_vanity_id] => Kaen/Pitbull
+                            [restricted] => 0
+                            [updated_time] => 2014-04-08T16:59:07Z
+                            [primary_genres] => Array
+                                (
+                                    [music_genre_list] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [music_genre] => Array
+                                                        (
+                                                            [music_genre_id] => 1073
+                                                            [music_genre_parent_id] => 18
+                                                            [music_genre_name] => Hip-Hop
+                                                            [music_genre_name_extended] => Hip Hop/Rap / Hip-Hop
+                                                            [music_genre_vanity] => Hip-Hop-Rap-Hip-Hop
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [secondary_genres] => Array
+                                (
+                                    [music_genre_list] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [track] => Array
+                        (
+                            [track_id] => 32725225
+                            [track_mbid] => 
+                            [track_isrc] => FR8R60580080
+                            [track_spotify_id] => 
+                            [track_soundcloud_id] => 0
+                            [track_xboxmusic_id] => 
+                            [track_name] => Pitbull
+                            [track_name_translation_list] => Array
+                                (
+                                )
+
+                            [track_rating] => 30
+                            [track_length] => 230
+                            [commontrack_id] => 9963512
+                            [instrumental] => 0
+                            [explicit] => 0
+                            [has_lyrics] => 1
+                            [has_subtitles] => 1
+                            [num_favourite] => 14
+                            [lyrics_id] => 7117403
+                            [subtitle_id] => 5975150
+                            [album_id] => 15399421
+                            [album_name] => Ouest side
+                            [artist_id] => 76763
+                            [artist_mbid] => 785c0e9c-89f6-4bf4-8296-443a46632d62
+                            [artist_name] => Booba
+                            [album_coverart_100x100] => http://s.mxmcdn.net/images-storage/albums/3/8/8/6/1/5/26516883.jpg
+                            [album_coverart_350x350] => http://s.mxmcdn.net/images-storage/albums/3/8/8/6/1/5/26516883_350_350.jpg
+                            [album_coverart_500x500] => http://s.mxmcdn.net/images-storage/albums/3/8/8/6/1/5/26516883_500_500.jpg
+                            [album_coverart_800x800] => http://s.mxmcdn.net/images-storage/albums/3/8/8/6/1/5/26516883_800_800.jpg
+                            [track_share_url] => https://www.musixmatch.com/lyrics/Booba/Pitbull
+                            [track_edit_url] => https://www.musixmatch.com/lyrics/Booba/Pitbull/edit?utm_source=application&utm_campaign=api&utm_medium=
+                            [commontrack_vanity_id] => Booba/Pitbull
+                            [restricted] => 0
+                            [updated_time] => 2013-05-09T04:30:10Z
+                            [primary_genres] => Array
+                                (
+                                    [music_genre_list] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [music_genre] => Array
+                                                        (
+                                                            [music_genre_id] => 18
+                                                            [music_genre_parent_id] => 34
+                                                            [music_genre_name] => Hip Hop/Rap
+                                                            [music_genre_name_extended] => Hip Hop/Rap
+                                                            [music_genre_vanity] => Hip-Hop-Rap
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [secondary_genres] => Array
+                                (
+                                    [music_genre_list] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [music_genre] => Array
+                                                        (
+                                                            [music_genre_id] => 50000064
+                                                            [music_genre_parent_id] => 34
+                                                            [music_genre_name] => French Pop
+                                                            [music_genre_name_extended] => French Pop
+                                                            [music_genre_vanity] => French-Pop
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [track] => Array
+                        (
+                            [track_id] => 79699705
+                            [track_mbid] => 
+                            [track_isrc] => 
+                            [track_spotify_id] => 
+                            [track_soundcloud_id] => 0
+                            [track_xboxmusic_id] => 
+                            [track_name] => Pitbull
+                            [track_name_translation_list] => Array
+                                (
+                                )
+
+                            [track_rating] => 21
+                            [track_length] => 0
+                            [commontrack_id] => 44251894
+                            [instrumental] => 0
+                            [explicit] => 0
+                            [has_lyrics] => 1
+                            [has_subtitles] => 1
+                            [num_favourite] => 7
+                            [lyrics_id] => 10328981
+                            [subtitle_id] => 4283342
+                            [album_id] => 20225184
+                            [album_name] => Compilation
+                            [artist_id] => 24524087
+                            [artist_mbid] => f931c961-b647-4861-be8c-f47d84a4de51
+                            [artist_name] => Diljit Dosanjh
+                            [album_coverart_100x100] => http://s.mxmcdn.net/images/albums/nocover.png
+                            [album_coverart_350x350] => 
+                            [album_coverart_500x500] => 
+                            [album_coverart_800x800] => 
+                            [track_share_url] => https://www.musixmatch.com/lyrics/Diljit-Dosanjh/Pitbull
+                            [track_edit_url] => https://www.musixmatch.com/lyrics/Diljit-Dosanjh/Pitbull/edit?utm_source=application&utm_campaign=api&utm_medium=
+                            [commontrack_vanity_id] => Diljit-Dosanjh/Pitbull
+                            [restricted] => 0
+                            [updated_time] => 2015-02-16T16:52:10Z
+                            [primary_genres] => Array
+                                (
+                                    [music_genre_list] => Array
+                                        (
+                                        )
+
+                                )
+
+                            [secondary_genres] => Array
+                                (
+                                    [music_genre_list] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [track] => Array
+                        (
+                            [track_id] => 37014271
+                            [track_mbid] => 
+                            [track_isrc] => USUM71022773
+                            [track_spotify_id] => 53xAwwCv8AS0nRjABOJDMD
+                            [track_soundcloud_id] => 0
+                            [track_xboxmusic_id] => music.28478B06-0100-11DB-89CA-0019B92A3933
+                            [track_name] => Take Ova
+                            [track_name_translation_list] => Array
+                                (
+                                )
+
+                            [track_rating] => 15
+                            [track_length] => 247
+                            [commontrack_id] => 13615575
+                            [instrumental] => 0
+                            [explicit] => 0
+                            [has_lyrics] => 1
+                            [has_subtitles] => 1
+                            [num_favourite] => 2
+                            [lyrics_id] => 10676487
+                            [subtitle_id] => 6206522
+                            [album_id] => 15710983
+                            [album_name] => No Gravity
+                            [artist_id] => 24723423
+                            [artist_mbid] => 
+                            [artist_name] => Shontelle & Pitbull
+                            [album_coverart_100x100] => http://s.mxmcdn.net/images-storage/albums/9/7/6/8/4/9/26948679.jpg
+                            [album_coverart_350x350] => http://s.mxmcdn.net/images-storage/albums/9/7/6/8/4/9/26948679_350_350.jpg
+                            [album_coverart_500x500] => http://s.mxmcdn.net/images-storage/albums/9/7/6/8/4/9/26948679_500_500.jpg
+                            [album_coverart_800x800] => http://s.mxmcdn.net/images-storage/albums/9/7/6/8/4/9/26948679_800_800.jpg
+                            [track_share_url] => https://www.musixmatch.com/lyrics/Shontelle-Pitbull/Take-Ova
+                            [track_edit_url] => https://www.musixmatch.com/lyrics/Shontelle-Pitbull/Take-Ova/edit?utm_source=application&utm_campaign=api&utm_medium=
+                            [commontrack_vanity_id] => Shontelle-Pitbull/Take-Ova
+                            [restricted] => 0
+                            [updated_time] => 2015-03-01T20:32:39Z
+                            [primary_genres] => Array
+                                (
+                                    [music_genre_list] => Array
+                                        (
+                                        )
+
+                                )
+
+                            [secondary_genres] => Array
+                                (
+                                    [music_genre_list] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [track] => Array
+                        (
+                            [track_id] => 32286540
+                            [track_mbid] => 
+                            [track_isrc] => USA561032496
+                            [track_spotify_id] => 4ZmhzEO2FGEAQXwGgxerSB
+                            [track_soundcloud_id] => 0
+                            [track_xboxmusic_id] => 
+                            [track_name] => The Anthem
+                            [track_name_translation_list] => Array
+                                (
+                                )
+
+                            [track_rating] => 40
+                            [track_length] => 246
+                            [commontrack_id] => 12608246
+                            [instrumental] => 0
+                            [explicit] => 0
+                            [has_lyrics] => 1
+                            [has_subtitles] => 1
+                            [num_favourite] => 17
+                            [lyrics_id] => 9564321
+                            [subtitle_id] => 5256375
+                            [album_id] => 15350112
+                            [album_name] => Caribe Mix 2010
+                            [artist_id] => 24424314
+                            [artist_mbid] => 
+                            [artist_name] => Lil Jon & Pitbull
+                            [album_coverart_100x100] => http://s.mxmcdn.net/images-storage/albums/2/8/6/6/4/6/26646682.jpg
+                            [album_coverart_350x350] => http://s.mxmcdn.net/images-storage/albums/2/8/6/6/4/6/26646682_350_350.jpg
+                            [album_coverart_500x500] => http://s.mxmcdn.net/images-storage/albums/2/8/6/6/4/6/26646682_500_500.jpg
+                            [album_coverart_800x800] => http://s.mxmcdn.net/images-storage/albums/2/8/6/6/4/6/26646682_800_800.jpg
+                            [track_share_url] => https://www.musixmatch.com/lyrics/Lil-Jon-Pitbull/The-Anthem
+                            [track_edit_url] => https://www.musixmatch.com/lyrics/Lil-Jon-Pitbull/The-Anthem/edit?utm_source=application&utm_campaign=api&utm_medium=
+                            [commontrack_vanity_id] => Lil-Jon-Pitbull/The-Anthem
+                            [restricted] => 0
+                            [updated_time] => 2014-04-27T10:20:25Z
+                            [primary_genres] => Array
+                                (
+                                    [music_genre_list] => Array
+                                        (
+                                        )
+
+                                )
+
+                            [secondary_genres] => Array
+                                (
+                                    [music_genre_list] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [track] => Array
+                        (
+                            [track_id] => 36370846
+                            [track_mbid] => 
+                            [track_isrc] => USTV10400129
+                            [track_spotify_id] => 7dFgljcBj9CPDrUQD9LbiP
+                            [track_soundcloud_id] => 0
+                            [track_xboxmusic_id] => 
+                            [track_name] => Toma
+                            [track_name_translation_list] => Array
+                                (
+                                )
+
+                            [track_rating] => 23
+                            [track_length] => 213
+                            [commontrack_id] => 15086144
+                            [instrumental] => 0
+                            [explicit] => 1
+                            [has_lyrics] => 1
+                            [has_subtitles] => 1
+                            [num_favourite] => 2
+                            [lyrics_id] => 11327463
+                            [subtitle_id] => 5476256
+                            [album_id] => 15667546
+                            [album_name] => Crunk Hits 2.0: The Dirty South Goes Digital
+                            [artist_id] => 24424314
+                            [artist_mbid] => 
+                            [artist_name] => Lil Jon & Pitbull
+                            [album_coverart_100x100] => http://s.mxmcdn.net/images-storage/albums/2/4/2/5/0/9/26905242.jpg
+                            [album_coverart_350x350] => http://s.mxmcdn.net/images-storage/albums/2/4/2/5/0/9/26905242_350_350.jpg
+                            [album_coverart_500x500] => http://s.mxmcdn.net/images-storage/albums/2/4/2/5/0/9/26905242_500_500.jpg
+                            [album_coverart_800x800] => http://s.mxmcdn.net/images-storage/albums/2/4/2/5/0/9/26905242_800_800.jpg
+                            [track_share_url] => https://www.musixmatch.com/lyrics/Lil-Jon-Pitbull/Toma
+                            [track_edit_url] => https://www.musixmatch.com/lyrics/Lil-Jon-Pitbull/Toma/edit?utm_source=application&utm_campaign=api&utm_medium=
+                            [commontrack_vanity_id] => Lil-Jon-Pitbull/Toma
+                            [restricted] => 0
+                            [updated_time] => 2015-05-06T20:16:51Z
+                            [primary_genres] => Array
+                                (
+                                    [music_genre_list] => Array
+                                        (
+                                        )
+
+                                )
+
+                            [secondary_genres] => Array
+                                (
+                                    [music_genre_list] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [track] => Array
+                        (
+                            [track_id] => 72729382
+                            [track_mbid] => 
+                            [track_isrc] => 
+                            [track_spotify_id] => 
+                            [track_soundcloud_id] => 0
+                            [track_xboxmusic_id] => 
+                            [track_name] => Bedroom
+                            [track_name_translation_list] => Array
+                                (
+                                )
+
+                            [track_rating] => 20
+                            [track_length] => 180
+                            [commontrack_id] => 12569714
+                            [instrumental] => 0
+                            [explicit] => 0
+                            [has_lyrics] => 1
+                            [has_subtitles] => 1
+                            [num_favourite] => 5
+                            [lyrics_id] => 8448914
+                            [subtitle_id] => 306918
+                            [album_id] => 19596788
+                            [album_name] => Featuring Hits
+                            [artist_id] => 14329676
+                            [artist_mbid] => 
+                            [artist_name] => Redd feat. Qwote & Pitbull
+                            [album_coverart_100x100] => http://s.mxmcdn.net/images/albums/nocover.png
+                            [album_coverart_350x350] => 
+                            [album_coverart_500x500] => 
+                            [album_coverart_800x800] => 
+                            [track_share_url] => https://www.musixmatch.com/lyrics/Redd-feat-Qwote-Pitbull/Bedroom
+                            [track_edit_url] => https://www.musixmatch.com/lyrics/Redd-feat-Qwote-Pitbull/Bedroom/edit?utm_source=application&utm_campaign=api&utm_medium=
+                            [commontrack_vanity_id] => Redd-feat-Qwote-Pitbull/Bedroom
+                            [restricted] => 0
+                            [updated_time] => 2013-09-20T02:17:18Z
+                            [primary_genres] => Array
+                                (
+                                    [music_genre_list] => Array
+                                        (
+                                        )
+
+                                )
+
+                            [secondary_genres] => Array
+                                (
+                                    [music_genre_list] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [8] => Array
+                (
+                    [track] => Array
+                        (
+                            [track_id] => 31795107
+                            [track_mbid] => 
+                            [track_isrc] => USJAY1100015
+                            [track_spotify_id] => 4czgmprqjOTULhdNVSgmwe
+                            [track_soundcloud_id] => 42096198
+                            [track_xboxmusic_id] => 
+                            [track_name] => International Love
+                            [track_name_translation_list] => Array
+                                (
+                                )
+
+                            [track_rating] => 57
+                            [track_length] => 230
+                            [commontrack_id] => 12430548
+                            [instrumental] => 0
+                            [explicit] => 0
+                            [has_lyrics] => 1
+                            [has_subtitles] => 1
+                            [num_favourite] => 274
+                            [lyrics_id] => 9760082
+                            [subtitle_id] => 6611801
+                            [album_id] => 11328059
+                            [album_name] => Hits 2012
+                            [artist_id] => 24420575
+                            [artist_mbid] => 
+                            [artist_name] => Chris Brown & Pitbull
+                            [album_coverart_100x100] => http://s.mxmcdn.net/images-storage/albums/4/6/1/4/3/4/26434164.jpg
+                            [album_coverart_350x350] => http://s.mxmcdn.net/images-storage/albums/4/6/1/4/3/4/26434164_350_350.jpg
+                            [album_coverart_500x500] => http://s.mxmcdn.net/images-storage/albums/4/6/1/4/3/4/26434164_500_500.jpg
+                            [album_coverart_800x800] => 
+                            [track_share_url] => https://www.musixmatch.com/lyrics/Chris-Brown-Pitbull/International-Love
+                            [track_edit_url] => https://www.musixmatch.com/lyrics/Chris-Brown-Pitbull/International-Love/edit?utm_source=application&utm_campaign=api&utm_medium=
+                            [commontrack_vanity_id] => Chris-Brown-Pitbull/International-Love
+                            [restricted] => 0
+                            [updated_time] => 2014-08-18T07:26:08Z
+                            [primary_genres] => Array
+                                (
+                                    [music_genre_list] => Array
+                                        (
+                                        )
+
+                                )
+
+                            [secondary_genres] => Array
+                                (
+                                    [music_genre_list] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [9] => Array
+                (
+                    [track] => Array
+                        (
+                            [track_id] => 30205192
+                            [track_mbid] => 60cbaef1-7e8b-456d-bfa0-472863b26d86
+                            [track_isrc] => 
+                            [track_spotify_id] => 0UGJsRE9T0r6sIMR3mQzUW
+                            [track_soundcloud_id] => 0
+                            [track_xboxmusic_id] => 
+                            [track_name] => Rabiosa
+                            [track_name_translation_list] => Array
+                                (
+                                )
+
+                            [track_rating] => 48
+                            [track_length] => 208
+                            [commontrack_id] => 12262796
+                            [instrumental] => 0
+                            [explicit] => 0
+                            [has_lyrics] => 1
+                            [has_subtitles] => 1
+                            [num_favourite] => 104
+                            [lyrics_id] => 8316910
+                            [subtitle_id] => 6430737
+                            [album_id] => 11303684
+                            [album_name] => Hits For Kids Summer Party 2011
+                            [artist_id] => 24390150
+                            [artist_mbid] => 
+                            [artist_name] => Shakira & Pitbull
+                            [album_coverart_100x100] => http://s.mxmcdn.net/images-storage/albums/8/9/3/7/6/5/26567398.jpg
+                            [album_coverart_350x350] => http://s.mxmcdn.net/images-storage/albums/8/9/3/7/6/5/26567398_350_350.jpg
+                            [album_coverart_500x500] => 
+                            [album_coverart_800x800] => 
+                            [track_share_url] => https://www.musixmatch.com/lyrics/Shakira-Pitbull/Rabiosa
+                            [track_edit_url] => https://www.musixmatch.com/lyrics/Shakira-Pitbull/Rabiosa/edit?utm_source=application&utm_campaign=api&utm_medium=
+                            [commontrack_vanity_id] => Shakira-Pitbull/Rabiosa
+                            [restricted] => 0
+                            [updated_time] => 2013-07-20T03:27:36Z
+                            [primary_genres] => Array
+                                (
+                                    [music_genre_list] => Array
+                                        (
+                                        )
+
+                                )
+
+                            [secondary_genres] => Array
+                                (
+                                    [music_genre_list] => Array
+                                        (
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)

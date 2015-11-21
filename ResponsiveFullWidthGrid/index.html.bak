@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title>Juizy Slideshow - Full CSS3/HTML5 slideshow</title>
+	
+	<link href='http://fonts.googleapis.com/css?family=Mr+Dafoe' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Amaranth:700' rel='stylesheet' type='text/css'>
+	
+	<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+	
+	<span id="sl_play" class="sl_command">&nbsp;</span>
+	<span id="sl_pause" class="sl_command">&nbsp;</span>
+	<span id="sl_i1" class="sl_command sl_i">&nbsp;</span>
+	<span id="sl_i2" class="sl_command sl_i">&nbsp;</span>
+	<span id="sl_i3" class="sl_command sl_i">&nbsp;</span>
+	<span id="sl_i4" class="sl_command sl_i">&nbsp;</span>
+	
+	<h1><span class="cursive">Image</span>of<span>Lyrics</span></h1>
+	<h2 class="sread">The slideshow</h2>
+	<div class="lyrics" style=" color:#FFF;  font-family:Verdana, Geneva, sans-serif;"><marquee>Lonely im so lonely, i have nobody, to call my owwnnn im so lonely, im mr. lonely i have nobody, to call my owwnnn im so lonely, Yo this one here goes out to all my playas out there ya kno got to have one good girl whose always been there like ya kno took all the bullshit then one day she cant take it no more and decides to leave I wont up in the middle of the night and i noticed my girl wasn't by my side, coulda sworn i was dreamin, for her i was feenin, so i hadda take a little ride, back tracking ova these few years, tryna figure out wat i do to make it go bad, cuz ever since my girl left me, my whole left life came crashin Im so lonely (so lonely), im mr. lonely (mr. lonely) i have nobody (i have nobody) to call my own (to call my own) girl Im so lonely (so lonely) im mr. lonely (mr. lonely) i have nobody (i have nobody) ...</marquee></div>
+	
+	
+	
+	
+</body>
+</html>
